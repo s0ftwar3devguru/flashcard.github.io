@@ -1,1 +1,1 @@
-# flashcard.github.io
+# http://flashcard.github.io
