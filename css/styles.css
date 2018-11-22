@@ -1,0 +1,36 @@
+
+#lionking {
+  width: 300px;
+  height: 200px;
+  }
+#fact {
+  font-style: italic;
+  margin-left: 10px;
+  margin-right: 10px;
+  }
+.blabel {
+  font-weight: bold;
+}
+#list {
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#first-div {
+  border: 1px;
+  border-color:#000000;
+  border-style: solid;
+  padding: 15px;
+  width: 300px;
+  box-shadow: 5px 5px #D3D3D3;
+}
+#second-div {
+  border: 1px;
+  border-color: #000000;
+  border-style: solid;
+  box-shadow: 5px 5px #D3D3D3;
+   }
+#description {
+  margin-left: 10px;
+  margin-right: 10px;
+}
